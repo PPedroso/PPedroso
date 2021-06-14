@@ -5,7 +5,6 @@
   * C#
   * ASP.NET / ASP.NET Core
   * JS
-  * .NET
   * SQL Server
 
 ## Learning
