@@ -9,6 +9,7 @@
 
 ## Learning
   * ReactJS
+  * Postgres
   * Python
   * C
 
