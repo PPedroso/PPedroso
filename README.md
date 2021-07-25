@@ -11,7 +11,6 @@
   * ReactJS
   * Postgres
   * Python
-  * C
 
 
 ## Links
