@@ -8,8 +8,8 @@
   * SQL Server
 
 ## Learning
-  * ReactJS
-  * Postgres
+  * .net Core
+  * Docker
   * Python
 
 
