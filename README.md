@@ -1,4 +1,4 @@
-# Computer science student / Full-Stack developer 
+# Full-Stack developer 
 
 
 ## Main technologies
