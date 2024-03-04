@@ -1,18 +1,18 @@
 # Full-Stack developer 
 
 
-## Main technologies
+## Main Stack
   * C#
   * ASP.NET / ASP.NET Core
   * JS
   * SQL Server
 
 ## Learning
-  * .net Core
+  * Blazor
   * Docker
   * Python
 
 
 ## Links
-* [Codewars](https://www.codewars.com/users/PPedroso)
+* [Website](https://ppedroso.github.io/)
 
